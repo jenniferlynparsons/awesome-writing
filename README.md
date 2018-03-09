@@ -10,21 +10,26 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Prose for Programmers](https://github.com/joshuacc/prose-for-programmers)
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
-## General Tools
+## Documentation Tools
 
 * [Gitbook](https://www.gitbook.com/)
 
-## JS Tools
+### JavaScript
 
 * [Docco](http://ashkenas.com/docco/)
 * [sphinx-js](https://pypi.python.org/pypi/sphinx-js/)
 * [JSDoc](http://usejsdoc.org/)
 
-## API Tools
+### API
 
 * [Slate](https://github.com/lord/slate)
 * [Stoplight](http://stoplight.io/)
 
-## Python Tools
+### Python
 
 * [Sphinx](http://www.sphinx-doc.org/en/stable/)
+
+## Writing Technical Tutorials & Posts
+
+* [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
+* [Carbon](https://carbon.now.sh/)
