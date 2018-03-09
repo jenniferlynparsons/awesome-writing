@@ -4,11 +4,21 @@ An awesome list of information to help developers writing better, kinder, more h
 ## ["If you propose to speak, always ask yourself, is it true, is it necessary, is it kind?"](https://fakebuddhaquotes.com/if-you-propose-to-speak-always-ask-yourself-is-it-true-is-it-necessary-is-it-kind/)
 
 
+
 ## Guides
 
 * [Humanizing Your Documentation](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk)
 * [Prose for Programmers](https://github.com/joshuacc/prose-for-programmers)
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+
+
+
+## Writing Technical Tutorials & Posts
+
+* [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
+* [Carbon](https://carbon.now.sh/)
+
+
 
 ## Documentation Tools
 
@@ -28,8 +38,3 @@ An awesome list of information to help developers writing better, kinder, more h
 ### Python
 
 * [Sphinx](http://www.sphinx-doc.org/en/stable/)
-
-## Writing Technical Tutorials & Posts
-
-* [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
-* [Carbon](https://carbon.now.sh/)
