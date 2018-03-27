@@ -10,6 +10,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Humanizing Your Documentation](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk)
 * [Prose for Programmers](https://github.com/joshuacc/prose-for-programmers)
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
 
 ## Perspectives
