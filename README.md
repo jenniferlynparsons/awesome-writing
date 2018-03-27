@@ -15,7 +15,7 @@ An awesome list of information to help developers writing better, kinder, more h
 
 ## Perspectives
 
-* [“Just”](bradfrost.com/blog/post/just/)
+* [“Just”](http://bradfrost.com/blog/post/just/)
 
 
 ## Writing Technical Tutorials & Posts
