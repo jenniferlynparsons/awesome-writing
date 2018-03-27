@@ -12,6 +12,10 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 
+## Perspectives
+
+* [“Just”](bradfrost.com/blog/post/just/)
+
 
 ## Writing Technical Tutorials & Posts
 
