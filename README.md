@@ -16,6 +16,7 @@ An awesome list of information to help developers writing better, kinder, more h
 ## Perspectives
 
 * [“Just”](http://bradfrost.com/blog/post/just/)
+* [Write the Docs Podcast](https://itunes.apple.com/us/podcast/write-the-docs-podcast/id1178393510)
 
 
 ## Writing Technical Tutorials & Posts
@@ -23,6 +24,9 @@ An awesome list of information to help developers writing better, kinder, more h
 * [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
 * [Carbon](https://carbon.now.sh/)
 
+## Other Resources
+
+* [Write the Docs Community](http://www.writethedocs.org/)
 
 
 ## Documentation Tools
