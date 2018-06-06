@@ -23,6 +23,7 @@ An awesome list of information to help developers writing better, kinder, more h
 
 * [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
 * [Carbon](https://carbon.now.sh/)
+* [Five tips for improving your technical writing and documentation.](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
 
 ## Other Resources
 
@@ -34,6 +35,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Gitbook](https://www.gitbook.com/)
 * [retext-assuming](https://github.com/davidhund/retext-assuming)
 * [Alex](http://alexjs.com/)
+* [Builder Book](https://builderbook.org/)
 
 ### JavaScript
 
