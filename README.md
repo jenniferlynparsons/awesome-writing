@@ -11,6 +11,8 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Prose for Programmers](https://github.com/joshuacc/prose-for-programmers)
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+* [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a)
+* [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
 
 
 ## Perspectives
@@ -23,7 +25,8 @@ An awesome list of information to help developers writing better, kinder, more h
 
 * [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
 * [Carbon](https://carbon.now.sh/)
-* [Five tips for improving your technical writing and documentation.](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
+* [Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
+
 
 ## Other Resources
 
@@ -43,6 +46,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [sphinx-js](https://pypi.python.org/pypi/sphinx-js/)
 * [JSDoc](http://usejsdoc.org/)
 * [Awesome-JavaScript: Documentation](https://github.com/sorrycc/awesome-javascript#documentation)
+* [compodoc for Angular](https://compodoc.app/)
 
 ### API
 
