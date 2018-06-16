@@ -13,12 +13,16 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 * [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a)
 * [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
+* [The Four Layers to Great Documentation](https://dev.to/ojkelly/the-four-layers-to-great-documentation-dj7)
+* [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih)
 
 
 ## Perspectives
 
 * [“Just”](http://bradfrost.com/blog/post/just/)
 * [Write the Docs Podcast](https://itunes.apple.com/us/podcast/write-the-docs-podcast/id1178393510)
+* [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
+* [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
 
 
 ## Writing Technical Tutorials & Posts
