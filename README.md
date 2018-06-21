@@ -16,6 +16,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [The Four Layers to Great Documentation](https://dev.to/ojkelly/the-four-layers-to-great-documentation-dj7)
 * [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih)
 * [How I do Developer UX at Google](https://medium.com/google-design/how-i-do-developer-ux-at-google-b21646c2c4df)
+* [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
 
 ## Perspectives
