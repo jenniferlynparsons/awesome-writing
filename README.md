@@ -46,13 +46,14 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Alex](http://alexjs.com/)
 * [Builder Book](https://builderbook.org/)
 
-### JavaScript
+### JavaScript/React
 
 * [Docco](http://ashkenas.com/docco/)
 * [sphinx-js](https://pypi.python.org/pypi/sphinx-js/)
 * [JSDoc](http://usejsdoc.org/)
 * [Awesome-JavaScript: Documentation](https://github.com/sorrycc/awesome-javascript#documentation)
 * [compodoc for Angular](https://compodoc.app/)
+* [docz](https://www.docz.site/)
 
 ### API
 
