@@ -37,6 +37,7 @@ An awesome list of information to help developers writing better, kinder, more h
 ## Other Resources
 
 * [Write the Docs Community](http://www.writethedocs.org/)
+* [Increment Issue 6 - Documentation](https://increment.com/documentation/)
 
 
 ## Documentation Tools
