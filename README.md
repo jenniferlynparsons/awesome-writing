@@ -25,6 +25,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Write the Docs Podcast](https://itunes.apple.com/us/podcast/write-the-docs-podcast/id1178393510)
 * [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
 * [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
+* [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
 
 
 ## Writing Technical Tutorials & Posts
