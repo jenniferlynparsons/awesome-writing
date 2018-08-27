@@ -47,6 +47,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [retext-assuming](https://github.com/davidhund/retext-assuming)
 * [Alex](http://alexjs.com/)
 * [Builder Book](https://builderbook.org/)
+* [um - Command line utility for custom man-pages](https://github.com/sinclairtarget/um)
 
 ### JavaScript/React
 
