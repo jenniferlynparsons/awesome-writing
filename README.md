@@ -17,6 +17,8 @@ An awesome list of information to help developers writing better, kinder, more h
 * [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih)
 * [How I do Developer UX at Google](https://medium.com/google-design/how-i-do-developer-ux-at-google-b21646c2c4df)
 * [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+* [Writing Documentation When You Aren’t A Technical Writer Series](https://medium.com/api-corner/api-documentation/home)
+* [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
 
 
 ## Perspectives
@@ -25,7 +27,6 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Write the Docs Podcast](https://itunes.apple.com/us/podcast/write-the-docs-podcast/id1178393510)
 * [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
 * [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
-* [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
 
 
 ## Writing Technical Tutorials & Posts
