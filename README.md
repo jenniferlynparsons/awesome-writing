@@ -45,6 +45,7 @@ An awesome list of information to help developers writing better, kinder, more h
 ## Documentation Tools
 
 * [Gitbook](https://www.gitbook.com/)
+* [mdBook](https://rust-lang-nursery.github.io/mdBook/)
 * [retext-assuming](https://github.com/davidhund/retext-assuming)
 * [Alex](http://alexjs.com/)
 * [Builder Book](https://builderbook.org/)
