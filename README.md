@@ -19,6 +19,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 * [Writing Documentation When You Aren’t A Technical Writer Series](https://medium.com/api-corner/api-documentation/home)
 * [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
+* [Make a README](https://www.makeareadme.com/)
 
 
 ## Perspectives
