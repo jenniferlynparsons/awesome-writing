@@ -41,6 +41,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Write the Docs Community](http://www.writethedocs.org/)
 * [Increment Issue 6 - Documentation](https://increment.com/documentation/)
 * [Docs Like Code](https://www.docslikecode.com/articles/)
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
 
 
 ## Documentation Tools
