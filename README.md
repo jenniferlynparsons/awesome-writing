@@ -20,6 +20,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Writing Documentation When You Aren’t A Technical Writer Series](https://medium.com/api-corner/api-documentation/home)
 * [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
 * [Make a README](https://www.makeareadme.com/)
+* [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
 
 
 ## Perspectives
