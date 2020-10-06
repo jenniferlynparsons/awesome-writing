@@ -30,6 +30,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
 * [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
 * [Lessons Learned in a Year of Docs-Driven Development](https://slides.com/verythorough/ddd-wtd#/)
+* [Tales from documentation: Write for your clueless users](https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 
 
 ## Writing Technical Tutorials & Posts
