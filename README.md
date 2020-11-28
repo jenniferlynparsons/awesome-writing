@@ -39,6 +39,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Carbon](https://carbon.now.sh/)
 * [Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
 * [Tips for Improving Your Technical Writing Skills](https://mmaksimovic.dev/tips-for-improving-your-technical-writing-skills-cjqz11ghs008v84s10domxfeg)
+* [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
 
 
 ## Other Resources
