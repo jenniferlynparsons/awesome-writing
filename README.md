@@ -4,12 +4,10 @@ An awesome list of information to help developers writing better, kinder, more h
 ## ["If you propose to speak, always ask yourself, is it true, is it necessary, is it kind?"](https://fakebuddhaquotes.com/if-you-propose-to-speak-always-ask-yourself-is-it-true-is-it-necessary-is-it-kind/)
 
 
-
 ## Guides
 
 * [Humanizing Your Documentation](https://speakerdeck.com/carolstran/humanizing-your-documentation-lighting-talk)
 * [Prose for Programmers](https://github.com/joshuacc/prose-for-programmers)
-* [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 * [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a)
 * [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
@@ -19,8 +17,23 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 * [Writing Documentation When You Aren’t A Technical Writer Series](https://medium.com/api-corner/api-documentation/home)
 * [What's the best way to document JavaScript?](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
-* [Make a README](https://www.makeareadme.com/)
 * [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
+
+
+## Readmes
+* [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+* [Make a README](https://www.makeareadme.com/)
+
+
+## Writing Technical Tutorials & Posts
+
+* [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
+* [Carbon](https://carbon.now.sh/)
+* [Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
+* [Tips for Improving Your Technical Writing Skills](https://mmaksimovic.dev/tips-for-improving-your-technical-writing-skills-cjqz11ghs008v84s10domxfeg)
+* [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
+* [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
+* [Enable Learning in Technical Writing](https://mkaz.blog/misc/enable-learning-in-technical-writing/)
 
 
 ## Perspectives
@@ -31,15 +44,6 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
 * [Lessons Learned in a Year of Docs-Driven Development](https://slides.com/verythorough/ddd-wtd#/)
 * [Tales from documentation: Write for your clueless users](https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
-
-
-## Writing Technical Tutorials & Posts
-
-* [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
-* [Carbon](https://carbon.now.sh/)
-* [Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
-* [Tips for Improving Your Technical Writing Skills](https://mmaksimovic.dev/tips-for-improving-your-technical-writing-skills-cjqz11ghs008v84s10domxfeg)
-* [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
 
 
 ## Other Resources
