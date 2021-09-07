@@ -44,6 +44,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16)
 * [Lessons Learned in a Year of Docs-Driven Development](https://slides.com/verythorough/ddd-wtd#/)
 * [Tales from documentation: Write for your clueless users](https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
+* [The TTS Handbook: A 21st-century approach to internal documentation](https://18f.gsa.gov/2021/07/27/the_tts_handbook_a_21st-century_approach_to_internal_documentation/)
 
 
 ## Other Resources
