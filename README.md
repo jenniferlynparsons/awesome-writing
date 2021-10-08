@@ -30,7 +30,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [How to do technical blogging ](https://dev.to/yelluw/how-to-do-technical-blogging)
 * [Carbon](https://carbon.now.sh/)
 * [Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
-* [Tips for Improving Your Technical Writing Skills](https://mmaksimovic.dev/tips-for-improving-your-technical-writing-skills-cjqz11ghs008v84s10domxfeg)
+* [Tips for Improving Your Technical Writing Skills](https://dev.to/m_maksimovic_/tips-for-improving-your-technical-writing-skills-2iel)
 * [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
 * [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
 * [Enable Learning in Technical Writing](https://mkaz.blog/misc/enable-learning-in-technical-writing/)
