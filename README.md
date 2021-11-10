@@ -65,6 +65,7 @@ An awesome list of information to help developers writing better, kinder, more h
 * [um - Command line utility for custom man-pages](https://github.com/sinclairtarget/um)
 * [DocToc - markdown TOC generation](https://github.com/thlorenz/doctoc)
 * [Docusaurus](https://docusaurus.io/)
+* [Log4brains - architecture knowledge base](https://github.com/thomvaill/log4brains)
 
 ### JavaScript/React
 
